@@ -1,0 +1,6 @@
+﻿.env
+.venv/
+__pycache__/
+*.pyc
+data/qdrant_local/
+eval/results/*.jsonl
