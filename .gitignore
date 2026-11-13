@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 data/qdrant_local/
 eval/results/*.jsonl
+Gateway/.vs/
+Gateway/x64/
+Gateway/Gateway/
+*.exe
