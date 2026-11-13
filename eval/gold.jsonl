@@ -1,0 +1,5 @@
+﻿{"id":"q001","question":"洋山深水港区位于哪里？","must_include":["杭州湾"],"forbid":[]}
+{"id":"q002","question":"上海港集装箱吞吐量排第几？","must_include":["全球第一"],"forbid":[]}
+{"id":"q003","question":"外高桥港区位于哪里？","must_include":["长江口"],"forbid":[]}
+{"id":"q004","question":"船舶进港需要提前多久申报？","must_include":["24"],"forbid":[]}
+{"id":"q005","question":"VTS是什么意思？","must_include":["船舶交通管理系统"],"forbid":[]}
